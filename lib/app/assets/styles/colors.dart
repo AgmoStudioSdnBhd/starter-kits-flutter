@@ -1,4 +1,4 @@
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_general.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_general.dart';
 
 class CustomColors {
   static const Color primaryColor = Color.fromRGBO(53, 152, 252, 1);

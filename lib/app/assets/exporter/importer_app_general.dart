@@ -1,10 +1,10 @@
 export '../../../generated/l10n.dart';
-export 'package:dumbdumb_flutter_app/app/assets/app_options.dart';
-export 'package:dumbdumb_flutter_app/app/assets/firebase_options.dart';
-export 'package:dumbdumb_flutter_app/app/utils/shared_preference_handler.dart';
-export 'package:dumbdumb_flutter_app/app/assets/styles/colors.dart';
-export 'package:dumbdumb_flutter_app/app/assets/constants.dart';
-export 'package:dumbdumb_flutter_app/app/utils/util.dart';
+export 'package:agmo_flutter_starter_kits/app/assets/app_options.dart';
+export 'package:agmo_flutter_starter_kits/app/assets/firebase_options.dart';
+export 'package:agmo_flutter_starter_kits/app/utils/shared_preference_handler.dart';
+export 'package:agmo_flutter_starter_kits/app/assets/styles/colors.dart';
+export 'package:agmo_flutter_starter_kits/app/assets/constants.dart';
+export 'package:agmo_flutter_starter_kits/app/utils/util.dart';
 export 'package:flutter/widgets.dart';
 export 'package:flutter/foundation.dart';
 export 'package:flutter/material.dart';

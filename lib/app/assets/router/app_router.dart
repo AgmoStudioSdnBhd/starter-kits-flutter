@@ -1,6 +1,6 @@
 
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_screens.dart';
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_routing.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_screens.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_routing.dart';
 
 class AppRouter {
   static String home = '/';

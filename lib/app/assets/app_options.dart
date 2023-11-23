@@ -1,4 +1,4 @@
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_structural_component.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_structural_component.dart';
 
 /// Configuration separated by different environment
 /// Add your respective [apiEndpoint] and more configuration here
