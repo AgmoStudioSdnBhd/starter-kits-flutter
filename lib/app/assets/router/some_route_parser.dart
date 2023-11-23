@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_general.dart';
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_routing.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_general.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_routing.dart';
 
 class CustomRouteParser extends GoRouteInformationParser {
   CustomRouteParser({required super.configuration, required super.onParserException});

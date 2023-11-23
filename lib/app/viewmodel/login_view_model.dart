@@ -1,4 +1,4 @@
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_structural_component.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_structural_component.dart';
 
 /// ViewModel class as a connector between View and Model,
 /// separating View and Model to segregate business logic from UI,

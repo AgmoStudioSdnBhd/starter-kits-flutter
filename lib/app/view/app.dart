@@ -5,9 +5,9 @@
 // license that can be found in the LICENSE file or at
 // https://opensource.org/licenses/MIT.
 
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_general.dart';
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_app_structural_component.dart';
-import 'package:dumbdumb_flutter_app/app/assets/exporter/importer_routing.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_general.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_app_structural_component.dart';
+import 'package:agmo_flutter_starter_kits/app/assets/exporter/importer_routing.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
 class App extends StatefulWidget {
@@ -64,7 +64,7 @@ class _AppWrapperState extends State<AppWrapper> {
                 systemOverlayStyle: SystemUiOverlayStyle(
                     statusBarBrightness: Brightness.light, statusBarIconBrightness: Brightness.light)),
             colorScheme: ColorScheme.fromSwatch(
-                primaryColorDark: CustomColors.primaryColorDark, accentColor: CustomColors.colorAccent)),
+                accentColor: CustomColors.colorAccent)),
         localizationsDelegates: const [
           S.delegate,
           GlobalMaterialLocalizations.delegate,
