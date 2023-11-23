@@ -1,4 +1,4 @@
-package com.dumbdumbname.my
+package com.agmostudio.mobile.flutterstarterkit
 
 import io.flutter.embedding.android.FlutterActivity
 
