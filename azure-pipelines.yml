@@ -12,8 +12,5 @@ pool:
 steps:
 - task: mirror-git-repository-vsts-task@1
   inputs:
-    sourceGitRepositoryUri: '$(Build.Repository.Uri)'
-    sourceGitRepositoryPersonalAccessToken: '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'
-    sourceGitRepositoryCloneDirectoryName: 'starter-kits-flutter'
-    destinationGitRepositoryUri: 'https://agmo@dev.azure.com/agmo/Mobile%20Starter%20Kits/_git/Flutter'
-    destinationGitRepositoryPersonalAccessToken: 'ytcdwl5xc5bxxqugmkrb57ujuhifijvtmulzd5jhzfvcbwzqkhsa'
+    sourceGitRepositoryUri: 'https://github.com/AgmoStudioSdnBhd/starter-kits-flutter.git'
+    destinationGitRepositoryUri: 'https://ytcdwl5xc5bxxqugmkrb57ujuhifijvtmulzd5jhzfvcbwzqkhsa@dev.azure.com/agmo/Mobile%20Starter%20Kits/_git/Flutter'
