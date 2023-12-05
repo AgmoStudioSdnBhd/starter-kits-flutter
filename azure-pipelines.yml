@@ -13,5 +13,6 @@ steps:
 - task: mirror-git-repository-vsts-task@1
   inputs:
     sourceGitRepositoryUri: 'https://github.com/AgmoStudioSdnBhd/starter-kits-flutter.git'
+    sourceVerifySSLCertificate: false
     destinationGitRepositoryUri: 'https://dev.azure.com/agmo/Mobile%20Starter%20Kits/_git/Flutter'
-    destinationGitRepositoryPersonalAccessToken: 'ytcdwl5xc5bxxqugmkrb57ujuhifijvtmulzd5jhzfvcbwzqkhsa'
+    destinationGitRepositoryPersonalAccessToken: 'nmhzjx2crndbiq3wzgfttiq4el2ynx6uuxwe6agitybfojwu7ipa'
